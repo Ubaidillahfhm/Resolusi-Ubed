@@ -1,7 +1,9 @@
 Resolusi Ubed
 - Jogging pagi seminggu 3 kali
 *selasa
+   - jam 7
 *kamis
+    - jam 8
 *sabtu
 - Belajar Pemrograman Android dan Website
 - Mengusahakan diterima pada MSIB 2023
